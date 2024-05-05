@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @DotickM
-- 👀 I’m interested in programy
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in programming
+- 🌱 I am currently studying at school
+- 💞️I want to cooperate in the following areas programmer
+- 📫 How to reach me my vk:https://vk.com/dotick_m 
+- 😄 Pronouns: Russia, Programming
+- ⚡ Fun fact: I leave in Russia, create play to Unity anh Skratch
 
 <!---
 DotickM/DotickM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
