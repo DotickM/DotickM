@@ -4,7 +4,7 @@
 - 💞️I want to cooperate in the following areas programmer
 - 📫 How to reach me my vk:https://vk.com/dotick_m 
 - 😄 Pronouns: Russia, Programming
-- ⚡ Fun fact: I leave in Russia, create play to Unity anh Skratch
+- ⚡ Fun fact: I live in Russia, Сreate play to Unity anh Skratch
 
 <!---
 DotickM/DotickM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
